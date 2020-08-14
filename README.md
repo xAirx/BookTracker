@@ -36,6 +36,16 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 
 
 		    ### Implementing Styled Components 
+		    
+	
+			    https://www.freecodecamp.org/news/react-native-styling-styled-components-flexbox-layouts-and-more
+			    
+			    https://docs.expo.io/guides/using-styled-components/
+			    
+			    https://www.freecodecamp.org/news/react-native-styling-styled-components-flexbox-layouts-and-more/
+
+
+
 
 
 
