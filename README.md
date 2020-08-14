@@ -27,14 +27,12 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 
 		     ## https://nativebase.io/
          
-         ## https://builderx.io/?utm_source=nativebase&utm_medium=website+fold&utm_campaign=nativebase
+       			  ## https://builderx.io/?utm_source=nativebase&utm_medium=website+fold&utm_campaign=nativebase
          
-        
         
 		     ## React Native Animations
 
 			    https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
-
 
 
 		    ### Implementing Styled Components 
