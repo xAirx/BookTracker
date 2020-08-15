@@ -18,6 +18,7 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 
 + CI/CD setup with Fastlane and VScodeAPPCenter
 
++ Chat functionality with FRDB (firebase realtime database (running websockets)).
 
 
 # Frontend
@@ -57,5 +58,7 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 		 	https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26
 			https://www.creative-tim.com/product/material-kit-react-native
 			https://www.npmjs.com/package/react-native-material-ui
+
+
 
 
