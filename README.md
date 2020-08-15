@@ -10,6 +10,8 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
                 
  # Planned: 
 
++ Auth, reg, login, social
+
 + Hooks
 
 + Dark light mode ( context API  material UI )
