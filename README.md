@@ -10,7 +10,9 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
                 
  # Planned: 
 
-+ Auth, reg, login, social
++ App Walkthrough functionality (Helper screens)
+
++ Auth, reg, login, social, phone , email.
 
 + Hooks
 
