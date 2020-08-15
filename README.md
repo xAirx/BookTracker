@@ -1,5 +1,21 @@
 # React Native BookTracker
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Part 1: (Express and GraphQL adopted on Firebase Cloud Functions.
 
