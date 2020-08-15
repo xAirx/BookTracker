@@ -1,6 +1,28 @@
 # React Native BookTracker
 
-A project created with focus on Hooks and advantages with Firebase as an (BAAS) solution:
+
+# Part 1: (Express and GraphQL adopted on Firebase Cloud Functions.
+
+
+## A project created with focus on: 
+
+                Adventuring through Express, GraphQL
+               
+##  A Frontend to be built with: 
+
+                ReactNative, Expo CLI, RNNavigation 5.0, Hooks, ContextAPI, NativeBase - (Exploring Component Libraries) +
+                Theming, Material UI. (Prototyping UI with builderX)
+
+## A Backend to be built with: 
+
+                Express API combined with  GraphQL and Apollo  - Hosted on Firebase on "Cloud Functions" <br> <br>
+
+
+
+
+# Part 2:
+
+## A project created with focus on Hooks and advantages with Firebase as an (BAAS) solution:
 
                 ReactNative, Expo CLI, RNNavigation 5.0, Hooks, ContextAPI, BuilderX, NativeBase 
                 - (Exploring Component Libraries) 
@@ -8,11 +30,11 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
                 -   A BAAS backend with Firebase Cloud + Authentication. Firebase Authentication (social)
                 
                 
- # Planned: 
+ ## Planned: 
 
 + App Walkthrough functionality (Helper screens)
 
-+ Auth, reg, login, social, phone , email.
++ Auth, reg, login, social.
 
 + Hooks
 
@@ -25,10 +47,10 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 + Chat functionality with FRDB (firebase realtime database (running websockets)).
 
 
-# Frontend
+### Frontend
 
 
-### UI kits - Layout
+#### UI kits - Layout
 
 		     ## https://nativebase.io/
          
@@ -54,7 +76,7 @@ A project created with focus on Hooks and advantages with Firebase as an (BAAS) 
 
 
 
-### Implement Dark and Light mode using Context API Styled Components and Theming 
+#### Implement Dark and Light mode using Context API Styled Components and Theming 
 
 
 		 ### Material UI 
