@@ -18,7 +18,30 @@
                 Express API combined with  GraphQL and Apollo  - Hosted on Firebase on "Cloud Functions" <br> <br>
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Part 2:
 
@@ -87,4 +110,27 @@
 
 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
