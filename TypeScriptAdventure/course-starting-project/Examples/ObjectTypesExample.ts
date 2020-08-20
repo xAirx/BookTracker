@@ -14,3 +14,4 @@ const person = {
 };
 
 console.log(person.nickname);
+console.log(person.name);
