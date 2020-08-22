@@ -11,7 +11,31 @@ A project created with focus on ReactNative, Hooks Context, Styled Components
 
 # Planned: 
 
-
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
 # Project Part 1 (Focus on BaaS capabillity with Firebase)
 
 
@@ -67,7 +91,31 @@ A project created with focus on ReactNative, Hooks Context, Styled Components
 			https://www.npmjs.com/package/react-native-material-ui
 
 
-
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; 
 
 
 
