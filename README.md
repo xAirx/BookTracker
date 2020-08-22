@@ -1,14 +1,5 @@
 # Webshop
 
-
-A project created with focus on ReactNative, Hooks Context, Styled Components 
-
-+ an API, made in Express migrated to GraphQL for learning purposes. 
-
-- Includes a CI/CD setup with VsCodeAppCenter and Fastlane + Unit-testing.
-
-
-
 # Planned: 
 
 &nbsp; 
