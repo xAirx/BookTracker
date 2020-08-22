@@ -64,59 +64,151 @@ A project created with focus on ReactNative, Hooks Context, Styled Components
 # Project Part 1 (Focus on BaaS capabillity with Firebase)
 
 
-	+ Hooks
 
-	+ Dark light mode ( context API  material UI )
-
-	+ Redux
+## Implement Dark and Light mode using Context API Styled Components and Theming 
 	
-                 Experiencing advantages with Firebase using as an (BaaS) solutions instead of traditional Express         with GraphQL
-            
-                 ReactNative, Expo CLI, Typescript, Redux, RNNavigation 5.0, Hooks, ContextAPI, NativeBase - (Exploring Component Libraries) 		     + Theming, Material UI. (Prototyping UI with builderX).
-                 
-		 A backend to be consisting of:</b><br> <br>
-                 A BaaS backend with Firebase + (Utilizing Push Notifications, Authentication, Social + more) <br> <br> + A Chat functionality for discussing books (Firebase providing Websockets).
-              
-	
-	
+		       ### UI kits - Layout
 
-	# Frontend
+				      ## UI Kitten
+
+					  https://akveo.github.io/react-native-ui-kitten/
 
 
-	### UI kits - Layout
+				      ## Shoutem UI 
 
-			     ## UI Kitten
-
-				  https://akveo.github.io/react-native-ui-kitten/
+					   https://shoutem.github.io/ui/
 
 
-			      ## Shoutem UI 
+				      ## React Native Animations
 
-				   https://shoutem.github.io/ui/
+					    https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
 
-
-			     ## React Native Animations
-
-				    https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
+ 
+				      ## Implementing Styled Components 
 
 
 
-			    ### Implementing Styled Components 
+			 	      ## Material UI 
 
-
-
-
-### Implement Dark and Light mode using Context API Styled Components and Theming 
-
-
-		 ### Material UI 
-		 
-		 	https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26
-			https://www.creative-tim.com/product/material-kit-react-native
-			https://www.npmjs.com/package/react-native-material-ui
+					https://medium.com/@victorvarghese/super-cool-material-ui-components-in-react-native-dd7c4434bc26
+					https://www.creative-tim.com/product/material-kit-react-native
+					https://www.npmjs.com/package/react-native-material-ui
 
 &nbsp; 
 &nbsp;
+&nbsp; 
+&nbsp;
+
+## Architecture (can change): 
+
+Backend integration with Firebase Auth, Firebase Storage, and Firebase Firestore
+Integration with Facebook SDK
+Stripe Payments
+Android Pay and Apple Pay support
+Gallery and Camera integration
+
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+## Shopping Experience
+
+   ## Home
+   
+        Main Products Carousel
+        Featured categories horizontal tray
+        Featured products carousel
+        Products Grid view
+	
+	
+   ## Products
+   
+        Products List view
+        Products Details view
+        Photo Gallery, with unlimited product photos
+        Color picker (optional)
+        Size picker (optional)
+        Share to Messenger, Whatsapp, Wechat, Twitter, E-mail, Copy Link, etc.
+        Wishlist
+	
+   ## Categories
+   
+        Categories list view
+        Featured Categories
+        Dynamic Photos
+   
+   ## Shopping Cart
+   
+        Add to Cart functionality
+        Remove from Cart
+        Edit Shopping Cart
+        Quick Checkout with Apple Pay/Android Pay
+        Order History
+        Reorder functionality
+	
+   ## Search
+        Integration with Firestore
+        Text matching
+
+	
+   ## Checkout Experience
+
+    Shopping Cart
+    Shipping Address
+    Shipping Methods
+    Payment Methods
+    Add New Card
+    Place Order
+    Stripe Integration
+    Apple Pay & Android Pay (Google Pay), for iOS and Android, respectively
+
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+
+  ## Onboarding
+
+    Onboarding Walkthrough
+    Customer Management
+        Registration
+        Login with E-mail & Password
+        Login with Facebook
+        Logout
+        Full integration with Firebase Auth
+    Splash Screen
+    App Icon
+    
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp;
+
+  ## Backend
+
+    Database system with Firebase Firestore
+    User management with Firebase Authentication
+    Photo storage with Firebase Storage
+    Payments with Stripe SDK (integrated with Stripe Dashboard)
+
+&nbsp; 
+&nbsp;
+&nbsp; 
+&nbsp; 
+  ## Other features
+
+    Profile Screen
+    Edit Account Screen
+    Settings
+    Contact Us
+    Order History
+    Profile Photo editing
+    Drawer Menu
+    
+
+
+
+
 &nbsp;
 &nbsp;
 &nbsp;
