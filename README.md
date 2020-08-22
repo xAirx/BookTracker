@@ -11,44 +11,48 @@ A project created with focus on ReactNative, Hooks Context, Styled Components
 
 # Planned: 
 
-+ Hooks
 
-+ Dark light mode ( context API  material UI )
-
-+ Redux
-
-+ Express Login and Authentication System, MongoDB
-
-+ Rest API -> GraphQL+Apollo migration.
-
-+ Rest API -> Firebase BAAS (authentication, auth0, email etc)
-
-+ CI/CD setup with Fastlane and VScodeAPPCenter
+# Project Part 1 (Focus on BaaS capabillity with Firebase)
 
 
+	+ Hooks
 
-# Frontend
+	+ Dark light mode ( context API  material UI )
 
+	+ Redux
+	
+                 Experiencing advantages with Firebase using as an (BaaS) solutions instead of traditional Express         with GraphQL
+            
+                 ReactNative, Expo CLI, Typescript, Redux, RNNavigation 5.0, Hooks, ContextAPI, NativeBase - (Exploring Component Libraries) 		     + Theming, Material UI. (Prototyping UI with builderX).
+                 
+		 A backend to be consisting of:</b><br> <br>
+                 A BaaS backend with Firebase + (Utilizing Push Notifications, Authentication, Social + more) <br> <br> + A Chat functionality for discussing books (Firebase providing Websockets).
+              
+	
+	
 
-### UI kits - Layout
-
-		     ## UI Kitten
-
-			  https://akveo.github.io/react-native-ui-kitten/
-
-
-		      ## Shoutem UI 
-
-			   https://shoutem.github.io/ui/
-
-
-		     ## React Native Animations
-
-			    https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
+	# Frontend
 
 
+	### UI kits - Layout
 
-		    ### Implementing Styled Components 
+			     ## UI Kitten
+
+				  https://akveo.github.io/react-native-ui-kitten/
+
+
+			      ## Shoutem UI 
+
+				   https://shoutem.github.io/ui/
+
+
+			     ## React Native Animations
+
+				    https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae
+
+
+
+			    ### Implementing Styled Components 
 
 
 
@@ -64,104 +68,58 @@ A project created with focus on ReactNative, Hooks Context, Styled Components
 
 
 
-# Backend / Devops
-
-		******** INFO HERE *******
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-
-### API 
-
-		******** INFO HERE *******
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-### API migration to GraphQL
-
-
-		******** INFO HERE *******
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-### Firebase BAAS migration
-
-
-#### Firebase // GraphQL, etc
 
 
 
+# Project Part 2 ( Focus on the non BaaS way )
 
-			https://dev.to/adriantwarog/react-native-firebase-authentication-tutorial-48g9
-			
-			https://blog.benestudio.co/social-login-with-react-native-6157ba3cff1c
-			
-			https://rnfirebase.io/auth/usage
-			
-			https://dev.to/emeka/securing-your-express-node-js-api-with-firebase-auth-4b5f
-			
-			https://medium.com/@jwngr/demystifying-firebase-auth-tokens-e0c533ed330c
-			
-			https://medium.com/better-programming/react-native-firebase-authentication-7652e1d2c8a2
-			
-			https://www.freecodecamp.org/news/react-native-firebase-tutorial/
-			
-			https://enappd.com/blog/react-native-firebase-crud-image-upload-and-phone-authentication/86/
-			
-			https://blog.bitsrc.io/email-authentication-with-react-native-and-firebase-14f46d496f46
-			
-			https://www.appypie.com/connect/apps/firebase/integrations/google-calendar
-			
-			https://zapier.com/apps/firebase/integrations/google-calendar
-			
-			https://medium.com/zero-equals-false/integrating-firebase-cloud-functions-with-google-calendar-api-9a5ac042e869
-			
-			https://groups.google.com/forum/#!topic/firebase-talk/fTlbYH5uTGY
-			
-			https://www.codementor.io/@victornwaiwu/using-firebase-as-an-authenticating-middleware-in-express-js-5z435fvaz
-			
-			https://dev.to/roggc/graphql-and-firebase-20oh
-			
-			https://graphql.org/graphql-js/express-graphql/
+	+ Express Login and Authentication System, MongoDB
+
+	+ Rest API -> GraphQL+Apollo migration.
+	
+	
+          A project created with focus on: </b><br><br>Adventuring through Express, Mongo, GraphQL, Apollo.
+          
+          ReactNative, Expo CLI, Typescript, RNNavigation 5.0, ContextAPI+ Hooks(MiniRedux), A Simple layout with NativeBase
+          A Backend to be built with: 
+          Express API combined with  GraphQL and Apollo  - Hosted on Firebase on "Cloud Functions" 
 
 
-
-
-### CI/CD Setup with VSCodeAppCenter and Fastlane.
-
-		******** INFO HERE *******
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-### Unittesting
+	### Backend 
 
 		******** INFO HERE *******
 
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+	### API 
+
+		******** INFO HERE *******
+	
+
+
+	### API migration to GraphQL
+
+
+		******** INFO HERE *******
+	
+	
+	
+	### Hosting Express API with GraphQL on Cloud functions
+
+		******** INFO HERE *******
+	
+	
+	
+
+	## Deployment and CI/CD
+
+	+ Exploring deployment / building and a mock CI/CD setup with Fastlane and VScodeAPPCenter
+
+
+
+	
+
+
+	
 &nbsp;
 &nbsp; 
 &nbsp;
